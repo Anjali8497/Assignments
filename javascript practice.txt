@@ -1,0 +1,8 @@
+* print the characters of string in alphabetical order using js function.
+   https://jsfiddle.net/1zx5w0c7/
+*write a function that accepts java string as a parameter and find the longest word within string.
+   https://jsfiddle.net/udwoz9gn/    
+*write a js to print current date in various formats.
+    https://jsfiddle.net/cx1zgnho/
+*days until next Christmas
+    https://jsfiddle.net/tbmeovLy/
